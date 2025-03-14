@@ -1,6 +1,5 @@
 .*
 !.git
-!.env
 Dockerfile
 build/
 .terraform/
