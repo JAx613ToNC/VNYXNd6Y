@@ -195,7 +195,6 @@ body {
       visibility: hidden;
       z-index: 200;
       transition: all 800ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  }
   
   .navigation__list {
       position: absolute;
